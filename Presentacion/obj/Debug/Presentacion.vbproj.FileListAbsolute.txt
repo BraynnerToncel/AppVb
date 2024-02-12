@@ -1,0 +1,92 @@
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Comun.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\Comun.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\bin\Debug\AccesoDato.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP01\source\repos\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.dll
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\Comun.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\ReglaDeNegocio.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.pdb
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\bin\Debug\AccesoDato.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Sala 03.20JSALA03EP02\source\repos\App4Capas (3)\App4Capas\App4Capas\Presentacion\obj\Debug\Presentacion.pdb
